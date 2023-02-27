@@ -1,4 +1,8 @@
-# inf-tarea9
+# informe -tarea 9
+
+Nombre: Steveen Vallejo 
+
+
 ***1. OBJETIVOS***
 
 _Analizar los circuitos RCL, los tipos de resonancias y frecuencias
@@ -69,7 +73,7 @@ _Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo s
 
 ***4)Video***
 
-https://youtu.be/e-XmThIBTIY
+https://www.youtube.com/watch?v=e-XmThjdg
 
 ***5.Conclusiones***
 
